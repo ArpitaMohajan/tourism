@@ -1,0 +1,18 @@
+.half-width{
+    width:50%;
+    padding-left: 2%;
+    
+}
+.About-Me{
+    /* background-image: url(Frame\ 58.jpg) ; */
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    
+}
+.flexible-container{
+    display: flex;
+    margin-bottom: 100px;
+    padding-left: 10%;
+    background-color:rgb(241, 229, 231);
+}

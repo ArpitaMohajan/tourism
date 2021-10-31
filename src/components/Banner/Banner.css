@@ -1,0 +1,24 @@
+.header {
+    background-image: url("https://thumbs.dreamstime.com/b/liscia-ruja-beach-under-cloudy-sky-sardinia-72934179.jpg"),
+    linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
+      height: 780px;
+      width: 100%;
+      /* border: 1px solid red; */
+      background-blend-mode: overlay;
+      background-repeat: repeat;
+      background-size: cover;
+      background-position: center;
+     
+    }
+    .title {
+      color: white;
+      font-weight: bold;
+      font-size: 59px;
+    }
+    .about-btn {
+      background-color: #ff0505;
+      outline: none;
+      border: none;
+      padding: 17px 34px;
+      color: white;
+    }

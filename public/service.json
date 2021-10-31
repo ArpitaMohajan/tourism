@@ -1,0 +1,38 @@
+[
+    {
+        "name": "DOCUMENT SERVICES",
+        "price": "$280",
+        "img": "https://th.bing.com/th/id/R.43945debbf1ad8ec6f25b5b2af97a4bc?rik=cG8JDdMzt4lmTg&riu=http%3a%2f%2fwww.alibabaprinting.sg%2fwp-content%2fuploads%2f2018%2f04%2furgent_local_courier_service_singapore.jpg&ehk=D8O8FZZspFHQo54YX8ypmJocFo0pCniFbOCCdNTY2hU%3d&risl=&pid=ImgRaw&r=0",
+        "description": "Under this service we are providing document delivery for both corporate and retail customers nationwide. Envelopes weighing between 01 to 200 grams are being serviced . These documents are being distributed vide 600+ outlets across Bangladesh"
+    },
+    {
+        "name": "NON DOC/GIFT ITEM SERVICES",
+        "price": "$210",
+        "img": "https://northeastpunchline.ng/wp-content/uploads/2021/10/fb_img_16353666744394799907035266356779.jpg",
+        "description": "Items above 200 grams and less than or equal to 3.0 kgs which are not documents or parcels are identified as our Non-Documents (Gift item) delivery service. This is a product servicing our retail clients."
+    },
+    {
+        "name": "SUPER EXPRESS SERVICE",
+        "price": "$290",
+        "img": "https://th.bing.com/th/id/R.9771e44010ee8588d1bdfcca139b40bf?rik=%2bcLl5QutKVCKCA&pid=ImgRaw&r=0",
+        "description": "These are Extra urgent delivery documents in the companys list of enveloped services categories, under the \"Super Express Service\". In this Internet age, this is treated as the fastest and most secured delivery service for the valued special documents of retail and corporate customers."
+    },
+    {
+        "name": "DOCUMENT CORPORATE SERVICE",
+        "price": "$250",
+        "img": "https://th.bing.com/th/id/OIP.9j41Uswiep4J8Se9JJ_RsgHaE7?pid=ImgDet&rs=1",
+        "description": "This service is provided to different corporate customers of Bangladesh. For example, banks, insurances, multinational companies, phone companies, factories, industries, garment factories etc. This service is provided against a set contract-based rate for all the products and services."
+    },
+    {
+        "name": "INTERNATIONAL SERVICE",
+        "price": "$270",
+        "img": "https://i.pinimg.com/originals/fb/53/7b/fb537babf305a7466302d797082cdcc0.jpg",
+        "description": "undarban started their journey in the International sector quite some time ago to serve the nation. Now Sundarban is providing secured delivery support to about 220 countries Globally with online tracking facility and very competitive rates"
+    },
+    {
+        "name": "OUTBOUND SERVICE",
+        "price": "$240",
+        "img": "https://th.bing.com/th?id=OIF.iLxsr8TrBfGKoCraT%2bscDA&pid=ImgDet&rs=1",
+        "describe": "Our Speed- We Respect your time.Reliability- We’re committed to staying reliable, each time you avail our services.Low Cost- We are able to provide services nominal rates assuring standards,Simplicity- Our Approach make it convenient for you with coverage nationwide"
+    }
+]
